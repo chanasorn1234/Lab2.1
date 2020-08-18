@@ -28,11 +28,11 @@ int main()
 	
 	if (x % 2 != 0 & x % 3 != 0 & x % 5 != 0)
 	{
-		printf("%d", x);
+		printf("%d\n", x);
 	}
 
 
-
+	printf("End Program");
 
 
 
